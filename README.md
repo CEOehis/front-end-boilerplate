@@ -6,7 +6,7 @@ To get started:
 1. clone this repo
 `https://github.com/CEOehis/front-end-boilerplate.git`
 
-2. Run `npm install` or `yarn install`
+2. Run `npm install` or `yarn`
 
 3. Run `npm start` or `yarn start` to get gulp tasks running and serve your app
 
